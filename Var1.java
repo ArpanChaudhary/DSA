@@ -1,3 +1,5 @@
+\\ Declaration of variables and typecasting
+
 public class Var1{
     public static void main(String[] args) {
         int a = 10;
